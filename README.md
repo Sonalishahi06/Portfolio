@@ -25,5 +25,5 @@ It showcases my **skills, projects, and contact information** in a clean UI.
 
 ## 🔗 Demo Link
 
-[Live Preview]()
+[Live Preview](https://portfolio-five-kappa-24rds97c56.vercel.app/)
 
